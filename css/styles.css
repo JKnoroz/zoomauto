@@ -1,0 +1,23 @@
+/* Colors
+white: #ffffff
+grey-background: #f0f0f0
+black-text: #1b2192
+grey-text: #d5d6d5
+accent: #10a63d */
+
+body{
+    background-color: #fff;
+    color: #ababab;
+}
+
+.list {
+    list-style: none;
+}
+
+.logo {
+    color: #000000;
+}  
+
+.site-nav .link{
+    color: #000000;;
+}
